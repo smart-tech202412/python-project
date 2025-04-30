@@ -1,0 +1,8 @@
+def main():
+
+    animal = input("\033[1;3m what is your favorite animals_____?\033[0m")
+
+    print(f"My favorite animal is also {animal}")
+
+    if __name__=="_main_":
+        main()
